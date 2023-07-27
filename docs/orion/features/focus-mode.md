@@ -11,7 +11,7 @@ Focus Mode allows you to completely remove toolbars from your browser interface.
 - [iPadOS Focus Mode](#ipados)
 
 <a name="macos"></a>
-## macOS Focus Mode
+## macOS Focus Mode {#macos}
 
 You can enter Focus Mode by clicking the **View** menu and choosing **Enable Focus Mode**. Or, you can type **Shift-Command-F** on your keyboard.
 
@@ -20,7 +20,7 @@ You can enter Focus Mode by clicking the **View** menu and choosing **Enable Foc
 To exit Focus Mode, click the **View** menu and choose **Disable Focus Mode**. Or, you can type **Shift-Command-F** again on your keyboard.
 
 <a name="ios"></a>
-## iOS Focus Mode
+## iOS Focus Mode {#ios}
 
 1. Tap the three-dot menu (•••) in the bottom-right corner of your screen.
 2. Tap **Settings**.
@@ -36,7 +36,7 @@ Here's an example of YouTube in Focus Mode.
 <img src="./media/ios_focus_mode_example.png" width="300" alt="iOS Focus Mode Example"><br />
 
 <a name="ipados"></a>
-## iPadOS Focus Mode
+## iPadOS Focus Mode {#ipados}
 
 1. Tap the three-dot menu (•••) in the upper-right corner of your screen.
 2. Tap **Settings**.
