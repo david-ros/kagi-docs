@@ -13,6 +13,7 @@ next:
 - [The logo is a "g" which is in the Google ballpark. Why not "k"?](#the-logo-is-a-g-which-is-in-the-google-ballpark-why-not-k)
 - [What is Kagi Search?](#what-is-kagi-search)
 - [Why should I pay for search?](#why-should-i-pay-for-search)
+- [Can I try Kagi without an account?](#can-i-try-kagi-without-an-account)
 - [How do I get help with Kagi?](#how-do-i-get-help-with-kagi)
 - [How do I set Kagi as my default search engine?](#how-do-i-set-kagi-as-my-default-search-engine)
 - [Why does Kagi return so few results?](#why-does-kagi-return-so-few-results)
@@ -92,6 +93,11 @@ The [age of ads is over](https://blog.kagi.com/age-pagerank-over).
 With Kagi, users pay for searches and receive a superior product compared to "free," ad supported search engines.
 
 Read our full article on [why pay for search](../why-kagi/why-pay-for-search.md).
+
+## Can I try Kagi without an account?
+
+Yes, you can try Kagi for free without creating an account.
+When you visit the [Kagi homepage](https://kagi.com/), you can perform up to 50 free searches with no sign-up required. After you reach this limit, you’ll need to [create an account](https://kagi.com/signup?plan_id=trial) and start a free trial (or [choose a paid plan](https://kagi.com/pricing)) to continue searching.
 
 ## How do I get help with Kagi?
 
